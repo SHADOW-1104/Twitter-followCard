@@ -6,7 +6,7 @@ export const Card = ({name, user, img}) => {
         <header className="tw-followCard-header">
           <img
           className="tw-followCard-avatar"
-          src={`src/assets/img/${img}`}
+          src={`${img}`}
           alt={`${name} Thumbnail`} />
           <div className="tw-followCard-info">
             <strong className="tw-followCard-infoUserName">{name}</strong>
