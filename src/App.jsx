@@ -1,5 +1,4 @@
 import { Card } from "./Card"
-import './assets/css/App.css'
 
 export const App = () => {
   return (
