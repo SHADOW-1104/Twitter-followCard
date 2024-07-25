@@ -13,7 +13,7 @@ export const App = () => {
     <Card name="Mami Nanami" user="mami-chan" img={image1}/>
     <Card name="Frieren" user="frieren-sama" img={image2} />
     <Card name="Nino Nakano" user="nakano-nino" img={image3}/>
-    <Card name="Fern" user="Fern_01293" img={image4}/>
+    <Card name="Fern" user="Fern_01293" img={image5}/>
     <Card name="Chizuru Mizuhara" user="chizuru-ichinose" img={image4}/>
  
     </div>
