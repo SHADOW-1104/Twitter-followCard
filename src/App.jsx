@@ -1,4 +1,5 @@
 import { Card } from "./Card"
+import './assets/css/App.css'
 import image1 from './assets/img/1.jpeg';
 import image2 from './assets/img/2.jpg';
 import image3 from './assets/img/3.jpg';
