@@ -40,3 +40,17 @@
 .tw-followCard-btn:active{
     transform: scale(0.90);
 }
+
+.isFollowing{
+    border: 2px solid lime;
+    color: lime;
+}
+
+.tw-followCard-btn.isFollowing:hover{
+    border: 2px solid red;
+    background-color: red;
+    color: #fff;
+
+}
+
+
